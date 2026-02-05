@@ -44,3 +44,27 @@ This project implements:
 - `/library.html` — Public list of books (GET only)
 
 > Note: You must register/login as an admin to add books/authors from the admin page.
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/95c8305f-7870-497c-b4b7-bb3e12ad189d" />
+<img width="1440" height="898" alt="Снимок экрана 2026-02-05 в 15 34 27" src="https://github.com/user-attachments/assets/93dd78b3-3c4d-4b8d-9230-d737d708834c" />
+<img width="1440" height="900" alt="Снимок экрана 2026-02-05 в 15 34 51" src="https://github.com/user-attachments/assets/110dd857-3d28-419b-ad29-1f342d641e12" />
+<img width="1440" height="900" alt="Снимок экрана 2026-02-05 в 15 35 32" src="https://github.com/user-attachments/assets/4cc23c9e-8236-40e6-b2ef-4f84b38bb979" />
+<img width="1440" height="900" alt="Снимок экрана 2026-02-05 в 15 36 19" src="https://github.com/user-attachments/assets/197e9765-8c72-46b3-9f7a-4c8f1781b4c0" />
+<img width="1440" height="900" alt="Снимок экрана 2026-02-05 в 15 36 44" src="https://github.com/user-attachments/assets/a23733ba-aad0-4953-8ccf-568346223921" />
+<img width="1440" height="900" alt="Снимок экрана 2026-02-05 в 15 37 01" src="https://github.com/user-attachments/assets/f4c87878-c115-44a5-9b58-001675f920c9" />
+<img width="1440" height="900" alt="Снимок экрана 2026-02-05 в 15 37 28" src="https://github.com/user-attachments/assets![Uploading Снимок экрана 2026-02-05 в 15.37.45.png…]()
+/d7050590-f76b-447a-860a-37259845a46c" />
+<img width="1440" height="900" alt="Снимок экрана 2026-02-05 в 15 38 15" src="https://github.com/user-attachments/assets/74e5d4f0-bad5-44e9-b072-f198b6a239b1" />
+<img width="1440" height="899" alt="Снимок экрана 2026-02-05 в 15 39 53" src="https://github.com/user-attachments/assets/ca23cb3f-8f92-4437-8c83-316d3eff6594" />
+
+
+
+
+
+
+
+
+
+
+
+
